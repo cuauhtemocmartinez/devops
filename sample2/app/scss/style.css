@@ -35,4 +35,10 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
 }
+
+.flex-ai-c {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
 /*# sourceMappingURL=style.css.map */
