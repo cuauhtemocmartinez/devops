@@ -41,4 +41,8 @@ body {
       -ms-flex-align: center;
           align-items: center;
 }
+
+.header__menu > span {
+  display: block;
+}
 /*# sourceMappingURL=style.css.map */
