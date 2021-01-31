@@ -42,7 +42,18 @@ body {
           align-items: center;
 }
 
+.header nav {
+  padding: 40px;
+}
+
 .header__menu > span {
   display: block;
+  width: 26px;
+  height: 2px;
+  background-color: #2d314d;
+}
+
+.header__menu > span:not(:last-child) {
+  margin-bottom: 3px;
 }
 /*# sourceMappingURL=style.css.map */
