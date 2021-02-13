@@ -104,7 +104,13 @@ img.round {
 img.rounded {
   border-radius: 6px;
 }
-
+.ddn {
+  color: #fff;
+  fill: #fff;
+  font-family: "Roboto", sans-serif;
+  font-size: small;
+  text-align: left;
+}
 .slides {
   color: #fff;
   fill: #fff;
