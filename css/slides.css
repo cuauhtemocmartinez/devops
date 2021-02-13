@@ -209,8 +209,6 @@ img.rounded {
   color: #fff;
   fill: #fff;
   font-family: "Roboto", sans-serif;
-  font-size: small;
-  text-align: left;
 }
 .slides {
   color: #fff;
@@ -2033,7 +2031,7 @@ html.mobile .showForMobileInline {
   pointer-events: all;
 }
 .panel .sections > div.left {
-  font-size: large;
+  text-align: left;
 }
 .panel .sections > div.left ul.crop {
   padding-left: 0;
