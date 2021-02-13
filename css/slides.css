@@ -1727,7 +1727,7 @@ html:not(.mobile) .slide.video .background[style] {
 
 .pad {
   border-radius: 6px;
-  padding: 10%;
+  padding: 20%;
   color: #202020;
   background: #fff;
   overflow: hidden;
